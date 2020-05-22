@@ -1,0 +1,1 @@
+module.exports.rangeService = require('./range.service');

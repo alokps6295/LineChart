@@ -1,0 +1,1 @@
+module.exports.range = require('./range.model');

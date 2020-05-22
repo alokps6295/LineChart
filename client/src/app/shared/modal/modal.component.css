@@ -1,0 +1,20 @@
+.modal-head-btn {
+    margin-left: 0;
+}
+
+.modal-head {
+    margin: 0 auto;
+}
+
+.text-area-height {
+    height: 120px;
+}
+
+.data-heading {
+    font-size: 14px;
+}
+
+.data-info {
+    font-weight: 400;
+    text-transform: capitalize;
+}

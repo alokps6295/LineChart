@@ -1,0 +1,22 @@
+<div class="modal-header">
+    <h4 class="modal-title modal-head" id="modal-basic-title">LineChart</h4>
+    <button type="button" class="close modal-head-btn" aria-label="Close" (click)="close()">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<div class="modal-body">
+    <div class="row">
+        <div class="col">Start Date</div>
+        <div class="col">{{startDate}}</div>
+    </div>
+    <div class="row">
+        <div class="col">End Date</div>
+        <div class="col">{{endDate}}</div>
+    </div>
+    <div class="input-group mb-3">
+        <input type="text" class="form-control" placeholder="Comments" [(ngModel)]="comment">
+    </div>
+    <div class="text-center">
+        <button type="button" class="btn btn-secondary h_40 btn_mW" (click)="upload()">Submit</button>
+    </div>
+</div>

@@ -1,0 +1,1 @@
+module.exports.rangeController = require('./range.controller');
