@@ -22,7 +22,7 @@
     "@ng-bootstrap/ng-bootstrap": "^5.1.2",
     "angular-sweetalert-service": "2.0.1",
     "bootstrap": "^4.5.0",
-    "d3": "^5.16.0",
+    "d3": "^7.6.1",
     "ngx-socket-io": "^3.0.1",
     "rxjs": "6.0.0",
     "sweetalert2": "^9.10.13",
